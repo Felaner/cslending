@@ -1,4 +1,4 @@
-// import './assets/fonts.css'
+import './assets/fonts.sass'
 import './assets/grid.css'
 import './assets/theme.sass'
 import { createApp } from 'vue'
